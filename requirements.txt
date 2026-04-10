@@ -3,3 +3,9 @@ transformers>=4.30.2
 torch
 werkzeug>=2.3.6
 emoji==0.6.0
+
+streamlit>=1.24.0
+vaderSentiment
+torchvision
+pandas
+sqlite3-api

@@ -5,3 +5,5 @@
 # Ignore the specific model folder you are using
 supcon_final_model/
 bertweet_supcon_last_epoch_state_dict.pth
+__pycache__/
+*.db
